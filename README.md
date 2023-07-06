@@ -2,7 +2,7 @@
 
 
 <h3><align=center>🛠 Git Contributions</h3>
-<img src="https://komarev.com/ghpvc/?username=gracieuxsikuly&label=Profile%20views&color=0e75b6&style=plastic" alt="gracieuxsikuly" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gracieuxsikuly&theme=tokyonight" />
 <img
     width="47%"
     align="left"
