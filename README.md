@@ -1,5 +1,13 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Gracieux sikuly
 
+<h2> Hello < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Gracieux sikuly </h2>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gracieuxsikuly" width="230"/></p>
+    
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- 🌱 I’m currently learning Web Development and other programming languages.
+- 👀 I’m interested in Learning new things in the Tech-world.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me **graciersikuly@gmail.com**
 
 <h3><align=center>🛠 Git Contributions</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gracieuxsikuly&theme=tokyonight" />
