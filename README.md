@@ -21,3 +21,11 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=gracieuxsikuly&label=Profile%20views&color=0e75b6&style=plastic" alt="gracieuxsikuly" />
 <br/>
+
+<p>
+<a href="https://github.com/AVS1508">
+  <img width="100%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gracieuxsikuly&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
