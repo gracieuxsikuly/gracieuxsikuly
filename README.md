@@ -10,7 +10,7 @@
 - 📫 How to reach me **graciersikuly@gmail.com**
 
 <h3><align=center>🛠 Git Contributions</h3>
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gracieuxsikuly&theme=react&line_height=40&hide=css"/> </a>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gracieuxsikuly&theme=react&line_height=40&hide=css"/>
 <img
     width="47%"
     align="left"
