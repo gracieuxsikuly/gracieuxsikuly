@@ -9,18 +9,27 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me **graciersikuly@gmail.com**
 
-<h3><align=center>🛠 Git Contributions</h3>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gracieuxsikuly&theme=react&line_height=40&hide=css"/>
+### 📈 My GitHub current Stats
+
+<p> 
 <img
-    width="47%"
-    align="left"
+    width="50%"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=gracieuxsikuly&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
   />
-<br/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=gracieuxsikuly&label=Profile%20views&color=0e75b6&style=plastic" alt="gracieuxsikuly" />
-<br/>
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics (All Time)
+
+<p align="left">
+<a href="https://github.com/gracieuxsikuly">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gracieuxsikuly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
+</a>
+<!-- days no stop commits -->
+<a href="https://github.com/gracieuxsikuly">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gracieuxsikuly&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
