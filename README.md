@@ -2,14 +2,14 @@
 <h2> Hello < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Gracieux sikuly </h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gracieuxsikuly" width="230"/></p>
     
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 - 🌱 I’m currently learning Web Development and other programming languages.
 - 👀 I’m interested in Learning new things in the Tech-world.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me **graciersikuly@gmail.com**
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
-    alt="joel-kalema" /> 
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=gracieuxsikuly&label=Profile%20views&color=0e75b6&style=flat"
+    alt="gracieuxsikuly" /> 
 </p>
 ### 📈 My GitHub current Stats
 
