@@ -8,7 +8,9 @@
 - 👀 I’m interested in Learning new things in the Tech-world.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me **graciersikuly@gmail.com**
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
+    alt="joel-kalema" /> 
+</p>
 ### 📈 My GitHub current Stats
 
 <p> 
