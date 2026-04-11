@@ -21,8 +21,9 @@
 <td width="60%">
 
 I'm a **Full-Stack Developer and DevOps Engineer** specialized in **Geographic Information Systems (GIS)** and **cloud architecture**.
-Verified Certificate Of Nanodegree Program Completion <a href="www.udacity.com/certificate/e/072d7734-079d-11ed-9ca2-7b9ca77ae152">
-  Cloud developer
+Verified Certificate Of Nanodegree Program Completion 
+<a href="https://www.udacity.com/certificate/e/072d7734-079d-11ed-9ca2-7b9ca77ae152" target="_blank">
+  Cloud Developer
 </a>
 
 I design and deploy **end-to-end geospatial systems** — from spatial databases to scalable cloud infrastructures — fully integrated into real business platforms like **Odoo ERP**.
