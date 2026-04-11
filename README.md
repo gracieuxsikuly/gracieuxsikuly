@@ -6,9 +6,9 @@
 
 *Building production-grade geospatial cloud architectures that bridge GIS, ERP systems, and scalable infrastructure.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gracieux-sikuly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracieux-sikuly-4aba2118b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gracieuxsikuly)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracieux.sikuly@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graciersikuly@email.com)
 
 </div>
 
@@ -108,8 +108,8 @@ I design and deploy **end-to-end geospatial systems** — from spatial databases
 
 ## 📬 Contact
 
-- 📧 gracieux.sikuly@email.com  
-- 💼 https://linkedin.com/in/gracieux-sikuly  
+- 📧 graciersikulyy@email.com  
+- 💼 https://www.linkedin.com/in/gracieux-sikuly-4aba2118b 
 - 🐙 https://github.com/gracieuxsikuly  
 
 ---
