@@ -79,7 +79,7 @@ I design and deploy **end-to-end geospatial systems** — from spatial databases
 
 ---
 
-## 🏆 Featured Project: Odoo + QGIS Server + AWS
+## 🏆 Featured Project: Odoo + GeoServer  + AWS
 
 > Full-stack GIS Cloud Architecture integrated with Odoo ERP
 
