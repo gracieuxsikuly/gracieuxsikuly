@@ -83,7 +83,7 @@ I design and deploy **end-to-end geospatial systems** — from spatial databases
 
 > Full-stack GIS Cloud Architecture integrated with Odoo ERP
 
-- 🐳 QGIS Server deployed on AWS (ECS / EC2)
+- 🐳 GeoServer deployed on AWS (ECS / EC2)
 - 🗄️ PostGIS as central spatial database
 - 🌐 WMS/WFS services exposed via API Gateway
 - 🔗 Odoo integration for business workflows
