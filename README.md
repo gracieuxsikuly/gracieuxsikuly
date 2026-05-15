@@ -37,7 +37,7 @@ I design and deploy **end-to-end geospatial systems** — from spatial databases
 
 ### 🚀 Current Focus
 - 🔭 Building a **GIS + Odoo cloud architecture on AWS**
-- 🗺️ Working with **QGIS Server & PostGIS in production**
+- 🗺️ Working with **GeoServer & PostGIS in production**
 - ⚙️ Improving **DevOps workflows (Docker, CI/CD, ECS)**
 - 🌍 Open to **remote & international opportunities**
 
