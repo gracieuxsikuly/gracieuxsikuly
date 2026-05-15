@@ -67,7 +67,7 @@ I design and deploy **end-to-end geospatial systems** — from spatial databases
 ### GIS & Geospatial
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![QGIS Server](https://img.shields.io/badge/QGIS_Server-589632?style=flat-square&logo=qgis&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-3A7C3A?style=flat-square&logo=geoserver&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-4CAF50?style=flat-square&logo=openstreetmap&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Cloud & DevOps
